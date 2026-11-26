@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(160, 197, 216);
+}
+
+.gitt:hover {
+    background-color: rgb(172, 31, 31);
+    color: rgb(255, 255, 255);
+}
+.Geotec img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border-color: rgb(255, 0, 68);
+    border-width: 5px;
+    border-style: solid;
+    
+}
+.legenda {
+    margin-top: 10px;
+    text-align: left;
+    margin-bottom: 5px;
+}
